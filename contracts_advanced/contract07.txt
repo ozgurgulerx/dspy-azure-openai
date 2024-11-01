@@ -1,0 +1,142 @@
+### Clause A
+
+**Confidentiality Obligations and Prohibitions**
+
+The Receiving Party hereby covenants and agrees to uphold the utmost confidentiality of the Disclosing Party's proprietary information. Such information, henceforth referred to as "Confidential Information," shall not, under any circumstances, be disclosed, divulged, or disseminated to any third party without the prior written consent of the Disclosing Party. The Receiving Party shall employ all reasonable measures to restrict access to the Confidential Information only to those employees, agents, or representatives who have a defined necessity to know the information for the purposes agreed upon in this Agreement.
+
+### Clause B
+
+**Non-Disclosure Requirements:**
+
+In recognition of the mutual exchange of information, the Parties commit to maintaining the secrecy of the Confidential Information received. The Receiving Party may not disclose such information to any external parties, except as explicitly permitted by this Agreement. Furthermore, measures comparable to those applied to safeguard the Receiving Party's own confidential information of similar nature shall be implemented. This includes, but is not limited to, encryption, access controls, and secure storage practices.
+
+### Clause C
+
+**Obligations of Confidentiality and Non-Revelation**
+
+The Receiving Party is obligated to keep in strict confidence any proprietary data, business strategies, inventions, or other confidential insights obtained from the Disclosing Party. This information, known herein as "Confidential Information," shall not be shared or transmitted to outsiders or utilized for any purposes beyond the intent of this Agreement, unless explicitly authorized in writing by the Disclosing Party. The Receiving Party shall adopt appropriate strategies, such as non-disclosure trainings and confidentiality acknowledgments, to ensure robust protection of said information.
+
+### Clause D
+
+**Protection and Non-Disclosure Commitment**
+
+By signing this Agreement, the Receiving Party solemnly promises to safeguard the confidentiality of the Confidential Information disclosed by the Disclosing Party. The Receiving Party commits to preventing unauthorized use or disclosure, ensuring that the information is only accessible to individuals with a legitimate, business-related need. Exceptions may only occur upon receiving explicit, documented permission from the Disclosing Party or as otherwise mandated by law. 
+
+### Clause E
+
+**Confidential Information Safeguarding Assurance**
+
+The Receiving Party agrees to maintain the confidentiality of all information classified as "Confidential Information" and hereby undertakes not to divulge said information to third parties without explicit written approval from the Disclosing Party. This obligation includes implementing stringent access controls and limiting disclosure strictly to personnel whose roles necessitate such knowledge for the execution of duties under this Agreement. Clause Version 1:  
+"**Termination of Agreement**  
+This Agreement may be terminated forthwith by either Party upon the occurrence of any of the following circumstances: (a) a material breach of any covenant or obligation under this Agreement, which breach is not remedied within thirty (30) days following written notice; (b) insolvency, bankruptcy, or any similar proceedings initiated by or against the other Party, that are not dismissed within sixty (60) days; or (c) the mutual consent of both Parties, in written form, duly executed by authorized representatives."
+
+Clause Version 2:  
+"**Cessation of Contractual Obligations**  
+Either party reserves the right to discontinue this Agreement immediately upon the commission of any significant default of its terms by the counterpart, provided that such default is not rectified within thirty (30) calendar days following the issuance of formal written notification. Furthermore, should either party become subject to proceedings under insolvency laws or engage in arrangements that indicate financial incapacity, the other party may elect to terminate this Agreement. Termination may also be effected by mutual concurrence documented in writing by both stakeholders."
+
+Clause Version 3:  
+"**Dissolution**  
+The rights to end this Contract are reserved to either side, contingent on the fulfillment of specific conditions: 1. A fundamental infringement of the stipulations herein, uncorrected after a grace period of thirty (30) days post notification. 2. The instigation or recognition of liquidation or analogous fiscal procedures affecting the other Party, unresolved within two months. Additionally, a shared agreement obtained through written communication by both Parties holds the power to nullify this Contract."
+
+Clause Version 4:  
+"**Agreement Termination Provisions**  
+This Contract shall be subject to termination at the discretion of either Party under the ensuing situations: the occurrence of a significant divergence from agreed terms, unresolved within a thirty (30)-day notice period given in writing; the onset of bankruptcy or insolvency conditions pertinent to a Party, if such conditions persist beyond sixty (60) days without resolution; or based on a collective decision reached by the Parties, expressed formally in writing."
+
+Clause Version 5:  
+"**Finalization and Nullification**  
+This Agreement may be concluded, with immediate effect, upon the instigation of any substantial infringement, unsalvaged within the thirty (30) days subsequent to the dispatch of a written notice. Likewise, insolvency proceedings initiated against any Party, not abrogated within the sixty (60)-day timeframe, warrant termination. The Parties may also jointly dissolve this Agreement upon agreeing in writing." **Indemnity Clause Version 1:**
+
+The Indemnifying Party agrees to defend, indemnify, and hold harmless the Indemnified Party and its affiliates, officers, directors, employees, agents, and representatives from and against all claims, liabilities, damages, losses, and expenses, including reasonable legal fees, arising out of or in connection with any third-party claim or demand (the "Claims"). This obligation to indemnify shall apply whether such Claims arise out of tort, contract, or otherwise and regardless of any alleged negligence or other fault of the Indemnified Party, except to the extent directly caused by the gross negligence or willful misconduct of the Indemnified Party. 
+
+**Indemnity Clause Version 2:**
+
+Without prejudice to any other rights or remedies available under this Agreement, the Obligor shall indemnify and hold the Obligee blameless from any and all kinds of losses, damages, claims, or actions (collectively referred to as "Liabilities") that may arise or result from the Obligor’s acts, omissions, or breaches. Such indemnification shall cover all costs and expenses, including attorney's fees that might be incurred in defending any action, claim, or demand by an aggrieved third party.
+
+**Indemnity Clause Version 3:**
+
+To the fullest extent permitted by law, the Party undertaking the indemnity (“Indemnitor”) shall indemnify, protect, and keep harmless the Party benefiting from the indemnity (“Indemnitee”), against any and all damages, settlements, and costs, including but not limited to legal defense costs (the “Expenses”) that may incur as a result of any action or claim brought by an external entity. This indemnity shall not extend to any wrongful acts directly attributable to sole negligence on the part of the Indemnitee.
+
+**Indemnity Clause Version 4:**
+
+The party hereinafter referred to as "Indemnitor" covenants to indemnify, save, and defend from harm the "Indemnitee", with respect to any form of loss, liability, or damage that may ensue from acts performed in connection with this Agreement. In this respect, indemnity extends to cover legal expenses reasonably incurred in relation to any such claims, save where such loss is a direct consequence of the Indemnitee's intentional and wrongful conduct.
+
+**Indemnity Clause Version 5:**
+
+In the spirit of mutual cooperation and legal fairness, the undersigned shall render indemnification to the other party for any detriments, liabilities, or demands imposed by third parties. This indemnification encompasses not only direct losses but also all associated legal expenditures reasonably sustained in the face of such challenges. Notwithstanding, this provision shall not excuse negligent or intentional harm instigated by the protected party. ### Force Majeure Clause
+
+1. **Clause A:**
+   In the event that performance of any obligation under this Agreement is prevented or impeded by an event beyond the reasonable control of the obligated party, including but not limited to acts of God, war, terrorism, natural disasters, labor strikes, or governmental orders, the affected party shall be excused from such performance to the extent necessitated by such event. The non-performing party shall notify the other party promptly of any such circumstances and use all reasonable efforts to resume performance as quickly as possible.
+
+2. **Clause B:**
+   Neither party shall be liable for any failure to fulfill its obligations under this contract if such failure is caused by unforeseen events beyond the party's control, which may include natural disasters, wars, riots, insurrections, embargoes, strikes, or acts of civil or military authority. It is incumbent upon the impacted party to notify the other party without excessive delay upon the occurrence of any such event and to make all feasible attempts to mitigate its consequences and resume performance.
+
+3. **Clause C:**
+   Should an unforeseeable and irresistible event occur, rendering a party unable to execute its duties as necessitated by this contract, said performance commitments shall be suspended for the duration of such occurrence. Instances qualifying as force majeure events encompass, yet are not limited to, acts of divine intervention, widespread pandemics, governmental decrees or sabotage. The involved party shall engage in immediate communication with the other, providing updates and pursuing all reasonable measures to recommence obligations.
+
+4. **Clause D:**
+   This Agreement's obligations shall be suspended during any period in which a party's performance is hindered by causes beyond its reasonable foresight and control, including but not limited to, acts of God, fire, flood, epidemic, strikes, lockouts, national emergency, or any governmental act, leading to a delay or failure in execution. The party affected must promptly notify the other party of such delay and shall diligently strive to overcome the effects of such force majeure and resume compliance as swiftly as feasible.
+
+5. **Clause E:**
+   If either party is rendered unable to perform its covenants by reason of force majeure, including calamities such as earthquakes, hurricanes, explosions, accidents, embargoes, blockades, or any other cause beyond the reasonable anticipation and control of the parties, such failure to perform shall not be considered a breach. Prompt notification detailing the nature and expected duration of the delay shall be provided, and both parties are obligated to undertake all possible actions to address and mitigate the ramifications thereof, proceeding with performance once the hindrance ceases. 1. **Choice of Law**  
+This Agreement shall be governed by, construed, and enforced in accordance with the laws of the State of [insert state], without regard to its conflict of law principles. The parties hereby irrevocably submit to the jurisdiction of [insert jurisdiction], and any disputes arising under or related to this Agreement shall be resolved exclusively by the courts located therein.
+
+2. **Applicable Legislation**  
+The terms and provisions of this Contract will be interpreted and adjudicated under the laws of the [insert country/state], excluding its choice of law rules. By entering into this Contract, both Parties consent to submit to the exclusive jurisdiction of courts within [insert jurisdiction] concerning any and all matters, disputes, or disagreements arising from this Contract.
+
+3. **Controlling Jurisdiction**  
+The laws of [insert state/country] shall preside over this Agreement and determine its interpretation, construction, and validity. Any legal action or proceeding related to this Agreement must be brought in the courts located within [insert jurisdiction]. The Parties consent to the personal jurisdiction and venue therein and waive any objections thereto.
+
+4. **Law and Venue**  
+This Agreement, including its validity and performance, shall be governed by, and construed in accordance with, the legal codes and statutes of [insert state or region]. Venue for any court proceedings shall be exclusively in the competent courts of [insert location], and the Parties agree that any disputes shall be heard in said jurisdiction without considering any conflict of law provisions.
+
+5. **Jurisdiction and Choice of Law**  
+For the purposes of construing the covenants herein, the Parties agree that this Contract shall be interpreted in light of the statutory and common laws of [insert location]. Should there arise any disputes, the adjudication shall occur within the competent legal forum of [insert jurisdiction], to the exclusion of any other venue. The application of conflict of laws rules shall be expressly waived by both parties. **Clause 1:**
+
+Confidentiality. The Receiving Party herein agrees to maintain the confidentiality of all confidential information provided by the Disclosing Party. Such information shall not be divulged to any third party without the express prior written consent of the Disclosing Party. The Receiving Party acknowledges that this obligation shall survive the termination of this Agreement.
+
+**Clause 2:**
+
+Non-Disclosure Obligation. Each party covenants and agrees that it shall not, without the prior written authorization of the disclosing party, disseminate, distribute, or otherwise render accessible to any individual or entity, any proprietary insights, trade secrets, or sensitive data learned under this agreement. This non-disclosure pledge shall remain in effect even after the conclusion or termination of this contractual arrangement.
+
+**Clause 3:**
+
+Secrecy Assurance. It is imperative that the Receiving Party refrains from sharing, disclosing, or making accessible any intellectual property or confidential data obtained from the Disclosing Party. Exceptions to this may only occur with the Disclosing Party's documented consent. The Receiving Party's responsibility to uphold this secrecy does not expire with the termination of this document and persists indefinitely.
+
+**Clause 4:**
+
+Protection of Private Information. Both parties hereby undertake to guard any information characterized as confidential and prevent its exposure to unauthorized parties. The dissemination of such information shall only occur if prior written approval is provided by the party who originally disclosed said information. This protective commitment remains binding beyond the dissolution of this contract.
+
+**Clause 5:**
+
+Confidentiality and Non-Disclosure. Under no circumstances shall the Receiving Party permit the exposure of any information deemed confidential, belonging to the Disclosing Party, unless explicitly warranted by law or consented to in writing by the Disclosing Party. This provision, safeguarding the privacy of disclosed information, will remain operative post-termination of this Agreement and survives until no longer required.
+
+**Clause 6:**
+
+Safeguarding Confidential Knowledge. The Receiving Party shall, at all times, keep the shared knowledge secure and confidential, barring any unauthorized sharing, unless written permission from the Disclosing Party is obtained. This clause shall remain applicable even following the lapse or cessation of this professional agreement, endlessly enduring unless specified otherwise. **Clause 1: General Contract Terms and Conditions**
+
+1.1 **Scope and Intent**  
+This Agreement, containing the entire understanding and all mutual obligations of the Parties, shall govern the relationship between the undersigned. It encompasses all covenants, promises, conditions, and understandings, whether written or oral, superseding any prior agreements or negotiations.
+
+1.2 **Severability**  
+In the event that any provision herein is deemed invalid, illegal, or unenforceable by any court of competent jurisdiction, such provision shall be severed from the remainder of this Agreement, which shall remain in full force and effect, provided that removal of such provision does not materially alter the substance of this Agreement.
+
+1.3 **Amendments**  
+This Agreement may be modified only through a written amendment, executed by authorized representatives of both Parties. Such amendments shall be appended hereto and shall outline any modifications to the original stipulations.
+
+1.4 **Governing Law and Jurisdiction**  
+The construction, validation, and performance of this Agreement shall be governed by the laws of [Jurisdiction], without regard to its conflict of laws principles. The Parties hereby consent to the exclusive jurisdiction of the courts in [Location] for any litigation arising out of or relating to this Agreement.
+
+1.5 **Assignment**  
+Neither Party may transfer or assign its rights or obligations under this Agreement without the prior written consent of the other Party, provided that such consent shall not be unreasonably withheld. An attempt at assignment without such consent shall be deemed null and void ab initio.
+
+1.6 **Force Majeure**  
+Neither Party shall be liable for delays or failures in performance resulting directly or indirectly from acts of nature, war, terrorism, insurrection, governmental regulation, labor strikes, lockouts, or other causes beyond such Party's reasonable control. Each Party shall, however, use all reasonable efforts to minimize the impact of such occurrence.
+
+1.7 **Entire Agreement**  
+This document constitutes the complete and exclusive statement of agreement between the Parties, and is intended as a full substitution for all prior discussions, agreements, negotiations, and understandings. Any changes or a waiver to this Agreement must be made publicly known in writing and expressly accepted by both Parties.
+
+1.8 **Waiver**  
+The waiver by either Party of any right under this Agreement or the delay or forbearance by either Party in the enforcement of any right shall not constitute continued waiver of that right or any other right under this Agreement.
+
+1.9 **Headings**  
+The headings used in this document are provided solely for convenience and shall not impact the interpretation, meaning, or scope of any provisions herein.
