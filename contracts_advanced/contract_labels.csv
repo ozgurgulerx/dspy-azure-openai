@@ -1,51 +1,101 @@
-filename,contains_nda,contains_termination,contains_indemnity,contains_force_majeure,contains_governing_law,contains_arbitration,contains_confidentiality,contains_data_protection
-contracts_advanced/contract12.txt,Absent,Absent,Absent,Present,Absent,Absent,Absent,Present
-contracts_advanced/contract14.txt,Absent,Absent,Absent,Present,Present,Absent,Absent,Absent
-contracts_advanced/contract06.txt,Absent,Present,Absent,Absent,Absent,Absent,Present,Absent
-contracts_advanced/contract15.txt,Absent,Absent,Present,Absent,Absent,Present,Absent,Absent
-contracts_advanced/contract04.txt,Present,Present,Absent,Absent,Absent,Absent,Absent,Present
-contracts_advanced/contract18.txt,Present,Absent,Present,Present,Absent,Absent,Absent,Present
-contracts_advanced/contract13.txt,Absent,Present,Present,Present,Present,Absent,Absent,Absent
-contracts_advanced/contract16.txt,Present,Absent,Present,Absent,Absent,Present,Absent,Absent
-contracts_advanced/contract19.txt,Present,Absent,Present,Absent,Absent,Present,Absent,Absent
-contracts_advanced/contract05.txt,Present,Absent,Absent,Present,Absent,Present,Absent,Present
-contracts_advanced/contract09.txt,Absent,Absent,Absent,Present,Present,Absent,Present,Present
-contracts_advanced/contract03.txt,Present,Present,Absent,Absent,Present,Present,Present,Absent
-contracts_advanced/contract17.txt,Absent,Present,Absent,Present,Present,Present,Absent,Present
-contracts_advanced/contract11.txt,Absent,Present,Absent,Present,Present,Present,Absent,Present
-contracts_advanced/contract10.txt,Present,Absent,Present,Present,Present,Absent,Present,Present
-contracts_advanced/contract25.txt,Present,Absent,Present,Absent,Absent,Absent,Absent,Absent
-contracts_advanced/contract20.txt,Present,Present,Present,Present,Present,Present,Absent,Absent
-contracts_advanced/contract21.txt,Absent,Present,Present,Present,Absent,Absent,Absent,Present
-contracts_advanced/contract28.txt,Present,Present,Absent,Absent,Present,Absent,Absent,Absent
-contracts_advanced/contract22.txt,Absent,Present,Present,Absent,Absent,Absent,Present,Present
-contracts_advanced/contract08.txt,Present,Absent,Present,Present,Present,Present,Absent,Absent
-contracts_advanced/contract07.txt,Present,Present,Present,Present,Present,Absent,Present,Absent
-contracts_advanced/contract02.txt,Absent,Present,Present,Present,Present,Present,Absent,Absent
-contracts_advanced/contract23.txt,Present,Present,Absent,Absent,Absent,Present,Absent,Absent
-contracts_advanced/contract24.txt,Absent,Present,Present,Absent,Absent,Present,Absent,Present
-contracts_advanced/contract01.txt,Present,Present,Present,Present,Present,Present,Present,Absent
-contracts_advanced/contract26.txt,Present,Present,Present,Absent,Present,Absent,Absent,Present
-contracts_advanced/contract33.txt,Absent,Present,Present,Absent,Absent,Absent,Absent,Absent
-contracts_advanced/contract29.txt,Present,Present,Absent,Absent,Present,Present,Present,Absent
-contracts_advanced/contract31.txt,Present,Absent,Absent,Absent,Absent,Present,Absent,Present
-contracts_advanced/contract42.txt,Absent,Absent,Present,Absent,Present,Absent,Absent,Absent
-contracts_advanced/contract34.txt,Absent,Absent,Absent,Present,Absent,Present,Present,Present
-contracts_advanced/contract30.txt,Absent,Present,Absent,Present,Present,Present,Absent,Absent
-contracts_advanced/contract44.txt,Present,Absent,Absent,Present,Absent,Absent,Absent,Absent
-contracts_advanced/contract27.txt,Present,Present,Absent,Absent,Present,Absent,Absent,Present
-contracts_advanced/contract36.txt,Absent,Present,Present,Absent,Present,Present,Absent,Absent
-contracts_advanced/contract39.txt,Present,Absent,Absent,Present,Absent,Absent,Present,Present
-contracts_advanced/contract41.txt,Absent,Present,Absent,Absent,Absent,Present,Present,Absent
-contracts_advanced/contract48.txt,Present,Present,Absent,Absent,Absent,Absent,Present,Absent
-contracts_advanced/contract40.txt,Absent,Absent,Present,Present,Absent,Present,Absent,Absent
-contracts_advanced/contract38.txt,Absent,Present,Absent,Present,Present,Present,Absent,Absent
-contracts_advanced/contract35.txt,Present,Absent,Present,Present,Absent,Present,Absent,Present
-contracts_advanced/contract37.txt,Absent,Present,Present,Present,Absent,Present,Absent,Absent
-contracts_advanced/contract47.txt,Absent,Present,Absent,Absent,Absent,Present,Present,Absent
-contracts_advanced/contract46.txt,Present,Absent,Absent,Absent,Absent,Present,Absent,Present
-contracts_advanced/contract43.txt,Present,Absent,Present,Present,Absent,Present,Present,Absent
-contracts_advanced/contract45.txt,Present,Absent,Absent,Present,Present,Present,Present,Absent
-contracts_advanced/contract32.txt,Present,Absent,Present,Present,Present,Present,Absent,Absent
-contracts_advanced/contract49.txt,Absent,Present,Present,Present,Absent,Present,Present,Absent
-contracts_advanced/contract50.txt,Absent,Present,Present,Absent,Present,Absent,Present,Present
+filename,contract_type,contains_nda,contains_termination,contains_indemnity,contains_force_majeure,contains_data_protection
+contracts_advanced/contract001.txt,Non-Disclosure Agreement (NDA) clause,Present,Absent,Absent,Absent,Absent
+contracts_advanced/contract002.txt,Non-Disclosure Agreement (NDA) clause,Present,Absent,Absent,Absent,Absent
+contracts_advanced/contract003.txt,Non-Disclosure Agreement (NDA) clause,Present,Absent,Absent,Absent,Absent
+contracts_advanced/contract004.txt,Non-Disclosure Agreement (NDA) clause,Present,Absent,Absent,Absent,Absent
+contracts_advanced/contract006.txt,Non-Disclosure Agreement (NDA) clause,Present,Absent,Absent,Absent,Absent
+contracts_advanced/contract005.txt,Non-Disclosure Agreement (NDA) clause,Present,Absent,Absent,Absent,Absent
+contracts_advanced/contract007.txt,Non-Disclosure Agreement (NDA) clause,Present,Absent,Absent,Absent,Absent
+contracts_advanced/contract009.txt,Non-Disclosure Agreement (NDA) clause,Present,Absent,Absent,Absent,Absent
+contracts_advanced/contract008.txt,Non-Disclosure Agreement (NDA) clause,Present,Absent,Absent,Absent,Absent
+contracts_advanced/contract011.txt,Non-Disclosure Agreement (NDA) clause,Present,Absent,Absent,Absent,Absent
+contracts_advanced/contract010.txt,Non-Disclosure Agreement (NDA) clause,Present,Absent,Absent,Absent,Absent
+contracts_advanced/contract012.txt,Non-Disclosure Agreement (NDA) clause,Present,Absent,Absent,Absent,Absent
+contracts_advanced/contract013.txt,Non-Disclosure Agreement (NDA) clause,Present,Absent,Absent,Absent,Absent
+contracts_advanced/contract015.txt,Non-Disclosure Agreement (NDA) clause,Present,Absent,Absent,Absent,Absent
+contracts_advanced/contract014.txt,Non-Disclosure Agreement (NDA) clause,Present,Absent,Absent,Absent,Absent
+contracts_advanced/contract016.txt,Non-Disclosure Agreement (NDA) clause,Present,Absent,Absent,Absent,Absent
+contracts_advanced/contract017.txt,Non-Disclosure Agreement (NDA) clause,Present,Absent,Absent,Absent,Absent
+contracts_advanced/contract018.txt,Non-Disclosure Agreement (NDA) clause,Present,Absent,Absent,Absent,Absent
+contracts_advanced/contract019.txt,Non-Disclosure Agreement (NDA) clause,Present,Absent,Absent,Absent,Absent
+contracts_advanced/contract020.txt,Non-Disclosure Agreement (NDA) clause,Present,Absent,Absent,Absent,Absent
+contracts_advanced/contract021.txt,Termination Clause,Absent,Present,Absent,Absent,Absent
+contracts_advanced/contract022.txt,Termination Clause,Absent,Present,Absent,Absent,Absent
+contracts_advanced/contract023.txt,Termination Clause,Absent,Present,Absent,Absent,Absent
+contracts_advanced/contract024.txt,Termination Clause,Absent,Present,Absent,Absent,Absent
+contracts_advanced/contract025.txt,Termination Clause,Absent,Present,Absent,Absent,Absent
+contracts_advanced/contract026.txt,Termination Clause,Absent,Present,Absent,Absent,Absent
+contracts_advanced/contract027.txt,Termination Clause,Absent,Present,Absent,Absent,Absent
+contracts_advanced/contract028.txt,Termination Clause,Absent,Present,Absent,Absent,Absent
+contracts_advanced/contract029.txt,Termination Clause,Absent,Present,Absent,Absent,Absent
+contracts_advanced/contract031.txt,Termination Clause,Absent,Present,Absent,Absent,Absent
+contracts_advanced/contract030.txt,Termination Clause,Absent,Present,Absent,Absent,Absent
+contracts_advanced/contract032.txt,Termination Clause,Absent,Present,Absent,Absent,Absent
+contracts_advanced/contract033.txt,Termination Clause,Absent,Present,Absent,Absent,Absent
+contracts_advanced/contract034.txt,Termination Clause,Absent,Present,Absent,Absent,Absent
+contracts_advanced/contract035.txt,Termination Clause,Absent,Present,Absent,Absent,Absent
+contracts_advanced/contract036.txt,Termination Clause,Absent,Present,Absent,Absent,Absent
+contracts_advanced/contract037.txt,Termination Clause,Absent,Present,Absent,Absent,Absent
+contracts_advanced/contract038.txt,Termination Clause,Absent,Present,Absent,Absent,Absent
+contracts_advanced/contract040.txt,Termination Clause,Absent,Present,Absent,Absent,Absent
+contracts_advanced/contract041.txt,Indemnity Clause,Absent,Absent,Present,Absent,Absent
+contracts_advanced/contract039.txt,Termination Clause,Absent,Present,Absent,Absent,Absent
+contracts_advanced/contract042.txt,Indemnity Clause,Absent,Absent,Present,Absent,Absent
+contracts_advanced/contract043.txt,Indemnity Clause,Absent,Absent,Present,Absent,Absent
+contracts_advanced/contract044.txt,Indemnity Clause,Absent,Absent,Present,Absent,Absent
+contracts_advanced/contract045.txt,Indemnity Clause,Absent,Absent,Present,Absent,Absent
+contracts_advanced/contract046.txt,Indemnity Clause,Absent,Absent,Present,Absent,Absent
+contracts_advanced/contract048.txt,Indemnity Clause,Absent,Absent,Present,Absent,Absent
+contracts_advanced/contract047.txt,Indemnity Clause,Absent,Absent,Present,Absent,Absent
+contracts_advanced/contract050.txt,Indemnity Clause,Absent,Absent,Present,Absent,Absent
+contracts_advanced/contract049.txt,Indemnity Clause,Absent,Absent,Present,Absent,Absent
+contracts_advanced/contract051.txt,Indemnity Clause,Absent,Absent,Present,Absent,Absent
+contracts_advanced/contract052.txt,Indemnity Clause,Absent,Absent,Present,Absent,Absent
+contracts_advanced/contract053.txt,Indemnity Clause,Absent,Absent,Present,Absent,Absent
+contracts_advanced/contract055.txt,Indemnity Clause,Absent,Absent,Present,Absent,Absent
+contracts_advanced/contract054.txt,Indemnity Clause,Absent,Absent,Present,Absent,Absent
+contracts_advanced/contract056.txt,Indemnity Clause,Absent,Absent,Present,Absent,Absent
+contracts_advanced/contract057.txt,Indemnity Clause,Absent,Absent,Present,Absent,Absent
+contracts_advanced/contract059.txt,Indemnity Clause,Absent,Absent,Present,Absent,Absent
+contracts_advanced/contract058.txt,Indemnity Clause,Absent,Absent,Present,Absent,Absent
+contracts_advanced/contract060.txt,Indemnity Clause,Absent,Absent,Present,Absent,Absent
+contracts_advanced/contract061.txt,Force Majeure Clause,Absent,Absent,Absent,Present,Absent
+contracts_advanced/contract062.txt,Force Majeure Clause,Absent,Absent,Absent,Present,Absent
+contracts_advanced/contract063.txt,Force Majeure Clause,Absent,Absent,Absent,Present,Absent
+contracts_advanced/contract065.txt,Force Majeure Clause,Absent,Absent,Absent,Present,Absent
+contracts_advanced/contract064.txt,Force Majeure Clause,Absent,Absent,Absent,Present,Absent
+contracts_advanced/contract066.txt,Force Majeure Clause,Absent,Absent,Absent,Present,Absent
+contracts_advanced/contract067.txt,Force Majeure Clause,Absent,Absent,Absent,Present,Absent
+contracts_advanced/contract068.txt,Force Majeure Clause,Absent,Absent,Absent,Present,Absent
+contracts_advanced/contract069.txt,Force Majeure Clause,Absent,Absent,Absent,Present,Absent
+contracts_advanced/contract070.txt,Force Majeure Clause,Absent,Absent,Absent,Present,Absent
+contracts_advanced/contract072.txt,Force Majeure Clause,Absent,Absent,Absent,Present,Absent
+contracts_advanced/contract071.txt,Force Majeure Clause,Absent,Absent,Absent,Present,Absent
+contracts_advanced/contract073.txt,Force Majeure Clause,Absent,Absent,Absent,Present,Absent
+contracts_advanced/contract074.txt,Force Majeure Clause,Absent,Absent,Absent,Present,Absent
+contracts_advanced/contract075.txt,Force Majeure Clause,Absent,Absent,Absent,Present,Absent
+contracts_advanced/contract076.txt,Force Majeure Clause,Absent,Absent,Absent,Present,Absent
+contracts_advanced/contract077.txt,Force Majeure Clause,Absent,Absent,Absent,Present,Absent
+contracts_advanced/contract078.txt,Force Majeure Clause,Absent,Absent,Absent,Present,Absent
+contracts_advanced/contract080.txt,Force Majeure Clause,Absent,Absent,Absent,Present,Absent
+contracts_advanced/contract079.txt,Force Majeure Clause,Absent,Absent,Absent,Present,Absent
+contracts_advanced/contract081.txt,Data Protection Clause,Absent,Absent,Absent,Absent,Present
+contracts_advanced/contract082.txt,Data Protection Clause,Absent,Absent,Absent,Absent,Present
+contracts_advanced/contract083.txt,Data Protection Clause,Absent,Absent,Absent,Absent,Present
+contracts_advanced/contract084.txt,Data Protection Clause,Absent,Absent,Absent,Absent,Present
+contracts_advanced/contract085.txt,Data Protection Clause,Absent,Absent,Absent,Absent,Present
+contracts_advanced/contract086.txt,Data Protection Clause,Absent,Absent,Absent,Absent,Present
+contracts_advanced/contract087.txt,Data Protection Clause,Absent,Absent,Absent,Absent,Present
+contracts_advanced/contract089.txt,Data Protection Clause,Absent,Absent,Absent,Absent,Present
+contracts_advanced/contract088.txt,Data Protection Clause,Absent,Absent,Absent,Absent,Present
+contracts_advanced/contract090.txt,Data Protection Clause,Absent,Absent,Absent,Absent,Present
+contracts_advanced/contract091.txt,Data Protection Clause,Absent,Absent,Absent,Absent,Present
+contracts_advanced/contract093.txt,Data Protection Clause,Absent,Absent,Absent,Absent,Present
+contracts_advanced/contract092.txt,Data Protection Clause,Absent,Absent,Absent,Absent,Present
+contracts_advanced/contract095.txt,Data Protection Clause,Absent,Absent,Absent,Absent,Present
+contracts_advanced/contract094.txt,Data Protection Clause,Absent,Absent,Absent,Absent,Present
+contracts_advanced/contract096.txt,Data Protection Clause,Absent,Absent,Absent,Absent,Present
+contracts_advanced/contract097.txt,Data Protection Clause,Absent,Absent,Absent,Absent,Present
+contracts_advanced/contract098.txt,Data Protection Clause,Absent,Absent,Absent,Absent,Present
+contracts_advanced/contract100.txt,Data Protection Clause,Absent,Absent,Absent,Absent,Present
+contracts_advanced/contract099.txt,Data Protection Clause,Absent,Absent,Absent,Absent,Present
